@@ -1,0 +1,17 @@
+<?xml version="1.0" encoding="UTF-8"?><rss xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:content="http://purl.org/rss/1.0/modules/content/" xmlns:atom="http://www.w3.org/2005/Atom" version="2.0">
+    <channel>
+        <title><![CDATA[onenessmovement]]></title>
+        <description><![CDATA[onenessmovement]]></description>
+        <link>http://github.com/dylang/node-rss</link>
+        <generator>The Grid</generator>
+        <lastBuildDate>Wed, 20 Apr 2016 14:26:46 GMT</lastBuildDate>
+        <atom:link href="undefinedrss.xml" rel="self" type="application/rss+xml"/>
+        <item>
+            <title><![CDATA[OM Oneness Movement]]></title>
+            <description><![CDATA[<article><h1>OM Oneness Movement</h1><img src="https://s3-us-west-2.amazonaws.com/the-grid-img/p/52c6d3e3217265170a8aa240f7206a1c1aeeda6c.jpg"></article>]]></description>
+            <link>undefinedom-oneness-movement/index.html</link>
+            <guid isPermaLink="false">14f72684-b37a-4976-835f-d9140de48cef</guid>
+            <pubDate>Wed, 20 Apr 2016 14:26:39 GMT</pubDate>
+        </item>
+    </channel>
+</rss>
