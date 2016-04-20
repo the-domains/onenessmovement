@@ -6,18 +6,18 @@ inLanguage: null
 starred: false
 keywords: []
 description: ''
-datePublished: '2016-04-20T19:54:07.317Z'
-dateModified: '2016-04-20T19:53:34.583Z'
+datePublished: '2016-04-20T19:55:54.442Z'
+dateModified: '2016-04-20T19:54:12.254Z'
+title: Discover The Universe
+author: []
+sourcePath: _posts/2016-04-20-discover-the-universe.md
+published: true
 authors: []
 publisher:
   name: null
   domain: null
   url: null
   favicon: null
-title: Discover The Universe
-author: []
-sourcePath: _posts/2016-04-20-discover-the-universe.md
-published: true
 url: discover-the-universe/index.html
 _type: Article
 
