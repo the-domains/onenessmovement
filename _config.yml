@@ -1,6 +1,6 @@
 name: onenessmovement
 favicon: null
-layout_spectrum: 0.3627
+layout_spectrum: 0.49461
 typography_spectrum: 0.49422
 cta:
   domain: null
@@ -21,7 +21,7 @@ color:
     - '#c1c1c1'
     - '#144a6e'
     - '#5789a4'
-  brandStrength: 0.6875
+  brandStrength: 0.5
   lightness: 0.1875
   saturation: 0.6875
   rhythmicContrast: 0.9700015615671873
