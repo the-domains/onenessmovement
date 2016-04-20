@@ -6,8 +6,8 @@ inLanguage: null
 starred: false
 keywords: []
 description: ''
-datePublished: '2016-04-20T20:15:20.769Z'
-dateModified: '2016-04-20T20:15:14.328Z'
+datePublished: '2016-04-20T20:17:10.092Z'
+dateModified: '2016-04-20T20:16:33.630Z'
 title: Discover The Universe
 author: []
 sourcePath: _posts/2016-04-20-discover-the-universe.md
