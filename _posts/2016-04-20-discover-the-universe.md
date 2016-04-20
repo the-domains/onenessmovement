@@ -6,8 +6,8 @@ inLanguage: null
 starred: false
 keywords: []
 description: '“This video illustrates the scaled size of our universe from quarks to the entirety of the observable universe. Each circle used in the video represents a scale factor of 10; meaning each larger circle is zoomed out 10x more than its predecessor. ( i.e. after 1 circle you are now looking at 10x larger horizon, after 2 circles 100x, 3 would be 1000x, and so forth. This also applies to the speed, ignoring relativistic effects, at which the observer (you) would be traveling.) Please note that the zoom out from 2:26 - 2:34 is a simplistic model of the theoretical multiverse intended to aid conceptualization.” — Equiinox1989'
-datePublished: '2016-04-20T20:12:57.849Z'
-dateModified: '2016-04-20T20:11:13.421Z'
+datePublished: '2016-04-20T20:13:19.344Z'
+dateModified: '2016-04-20T20:13:04.631Z'
 title: Discover The Universe
 author: []
 sourcePath: _posts/2016-04-20-discover-the-universe.md
