@@ -1,28 +1,40 @@
-name: onenessmovement
 favicon: null
-layout_spectrum: 0.65474
-typography_spectrum: 0.49422
-cta:
-  domain: null
-  bucket: null
-  version: null
-analytics:
-  google: null
-  facebook: null
-  twitter: null
+name: onenessmovement
 opengraph:
   image: null
   type: null
   appId: null
+collections:
+  - index:
+      path: /
+      number: 15
+      paginate: true
+      navigable: true
+    permalink:
+      path: '/:title/'
+    feed:
+      path: /rss.xml
+      format: rss
+      number: 10
+purpose: []
 color:
+  saturation: 0.8125
+  brandStrength: 0
+  rhythmicContrast: 0.9700015615671873
   brandColors:
     - '#000000'
     - '#ffffff'
     - '#2c2c2c'
     - '#ececec'
     - '#fbfbfb'
-  brandStrength: 0
   lightness: 0.1875
-  saturation: 0.8125
-  rhythmicContrast: 0.9700015615671873
-purpose: []
+typography_spectrum: 0.49422
+cta:
+  bucket: null
+  version: null
+  domain: null
+layout_spectrum: 0.04680851
+analytics:
+  twitter: null
+  google: null
+  facebook: null
