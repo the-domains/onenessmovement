@@ -16,9 +16,9 @@ keywords:
   - antitheist
   - copyright
   - http
-description: 'Facebook - http://www.facebook.com/thesaganseries Twitter - http://twitter.com/reidgower G+ - http://bit.ly/VpHzQh The Sagan Series is an educational project...'
-datePublished: '2016-04-21T05:14:18.247Z'
-dateModified: '2016-04-21T05:13:51.214Z'
+description: "“Look again at that dot. That's here. That's home. That's us. On it everyone you love, everyone you know, everyone you ever heard of, every human being who ever was, lived out their lives. The aggregate of our joy and suffering, thousands of confident religions, ideologies, and economic doctrines, every hunter and forager, every hero and coward, every creator and destroyer of civilization, every king and peasant, every young couple in love, every mother and father, hopeful child, inventor and explorer, every teacher of morals, every corrupt politician, every \"superstar,\" every \"supreme leader,\" every saint and sinner in the history of our species lived there--on a mote of dust suspended in a sunbeam."
+datePublished: '2016-04-21T05:45:14.194Z'
+dateModified: '2016-04-21T05:14:24.455Z'
 author:
   - name: Reid Gower
     url: 'https://www.youtube.com/user/damewse'
@@ -62,14 +62,14 @@ app_links:
     namespace: google
     type: ios
 title: The Pale Blue Dot - THE SAGAN SERIES
+sourcePath: _posts/2016-04-21-the-pale-blue-dot-the-sagan-series.md
+published: true
 authors: []
 publisher:
   name: YouTube
   domain: www.youtube.com
   url: 'https://www.youtube.com/'
   favicon: 'https://s.ytimg.com/yts/img/favicon-vflz7uhzw.ico'
-sourcePath: _posts/2016-04-21-the-pale-blue-dot-the-sagan-series.md
-published: true
 _type: VideoObject
 _context: 'http://schema.org'
 
@@ -86,5 +86,4 @@ It has been said that astronomy is a humbling and character-building experience.
 
 - Carl Sagan
 
-  
 <iframe src="https://cdn.embedly.com/widgets/media.html?src=https%3A%2F%2Fwww.youtube.com%2Fembed%2F923jxZY2NPI%3Ffeature%3Doembed&amp;url=https%3A%2F%2Fwww.youtube.com%2Fwatch%3Fv%3D923jxZY2NPI&amp;image=https%3A%2F%2Fi.ytimg.com%2Fvi%2F923jxZY2NPI%2Fhqdefault.jpg&amp;key=b7d04c9b404c499eba89ee7072e1c4f7&amp;type=text%2Fhtml&amp;schema=youtube" width="854" height="480" scrolling="no" frameborder="0" allowfullscreen="" style=""></iframe>
