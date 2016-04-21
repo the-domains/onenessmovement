@@ -17,8 +17,8 @@ keywords:
   - copyright
   - http
 description: "“Look again at that dot. That's here. That's home. That's us. On it everyone you love, everyone you know, everyone you ever heard of, every human being who ever was, lived out their lives. The aggregate of our joy and suffering, thousands of confident religions, ideologies, and economic doctrines, every hunter and forager, every hero and coward, every creator and destroyer of civilization, every king and peasant, every young couple in love, every mother and father, hopeful child, inventor and explorer, every teacher of morals, every corrupt politician, every \"superstar,\" every \"supreme leader,\" every saint and sinner in the history of our species lived there--on a mote of dust suspended in a sunbeam."
-datePublished: '2016-04-21T05:45:14.194Z'
-dateModified: '2016-04-21T05:14:24.455Z'
+datePublished: '2016-04-21T05:46:00.182Z'
+dateModified: '2016-04-21T05:45:16.571Z'
 author:
   - name: Reid Gower
     url: 'https://www.youtube.com/user/damewse'
