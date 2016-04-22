@@ -7,10 +7,10 @@ inLanguage: null
 starred: false
 keywords: []
 description: '“This video illustrates the scaled size of our universe from quarks to the entirety of the observable universe. Each circle used in the video represents a scale factor of 10; meaning each larger circle is zoomed out 10x more than its predecessor. ( i.e. after 1 circle you are now looking at 10x larger horizon, after 2 circles 100x, 3 would be 1000x, and so forth. This also applies to the speed, ignoring relativistic effects, at which the observer (you) would be traveling.) '
-datePublished: '2016-04-22T02:56:03.504Z'
-dateModified: '2016-04-22T02:55:48.651Z'
+datePublished: '2016-04-22T03:03:55.141Z'
+dateModified: '2016-04-22T02:56:44.278Z'
 author:
-  - name: Equiinox1989
+  - name: ''
     url: 'https://www.youtube.com/user/Equiinox1989'
     avatar: {}
 related: []
