@@ -6,24 +6,24 @@ isBasedOnUrl: 'https://www.youtube.com/watch?v=9D05ej8u-gU'
 inLanguage: null
 starred: false
 keywords: []
-description: ''
-datePublished: '2016-04-22T03:56:26.565Z'
-dateModified: '2016-04-22T03:55:53.877Z'
+description: '“The most astounding fact is the knowledge that the atoms that comprise life on Earth, the atoms that make up the human body, are traceable to the crucibles that cooked light elements into heavy elements in their core under extreme temperatures and pressures. These stars, the high mass ones among them went unstable in their later years. They collapsed and then exploded scattering their enriched guts across the galaxy - guts made of carbon, nitrogen, oxygen and all the fundamental ingredients of life itself. These ingredients become part of gas cloud that condense, collapse, form the next generation of solar systems: stars with orbiting planets. And, those planets now have the ingredients for life itself.'
+datePublished: '2016-04-22T03:57:48.315Z'
+dateModified: '2016-04-22T03:56:32.554Z'
 author:
   - name: Max Schlickenmeyer
     url: 'https://www.youtube.com/user/MaxSchlick'
     avatar: {}
 related: []
 app_links: []
-title: The Most Astounding Fact - Neil deGrasse Tyson
+title: What is the most astounding fact you can share with us about the Universe?
+sourcePath: _posts/2016-04-22-the-most-astounding-fact-neil-degrasse-tyson.md
+published: true
 authors: []
 publisher:
   name: YouTube
   domain: www.youtube.com
   url: 'https://www.youtube.com/'
   favicon: 'https://www.youtube.com/favicon.ico'
-sourcePath: _posts/2016-04-22-the-most-astounding-fact-neil-degrasse-tyson.md
-published: true
 _type: VideoObject
 _context: 'http://schema.org'
 
