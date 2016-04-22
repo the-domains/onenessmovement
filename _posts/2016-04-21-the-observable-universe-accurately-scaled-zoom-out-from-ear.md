@@ -6,9 +6,9 @@ isBasedOnUrl: 'https://www.youtube.com/watch?v=HiN6Ag5-DrU'
 inLanguage: null
 starred: false
 keywords: []
-description: ''
-datePublished: '2016-04-21T05:44:19.468Z'
-dateModified: '2016-04-21T05:44:01.473Z'
+description: '“This video illustrates the scaled size of our universe from quarks to the entirety of the observable universe. Each circle used in the video represents a scale factor of 10; meaning each larger circle is zoomed out 10x more than its predecessor. ( i.e. after 1 circle you are now looking at 10x larger horizon, after 2 circles 100x, 3 would be 1000x, and so forth. This also applies to the speed, ignoring relativistic effects, at which the observer (you) would be traveling.) '
+datePublished: '2016-04-22T02:56:03.504Z'
+dateModified: '2016-04-22T02:55:48.651Z'
 author:
   - name: Equiinox1989
     url: 'https://www.youtube.com/user/Equiinox1989'
@@ -16,14 +16,14 @@ author:
 related: []
 app_links: []
 title: The Observable Universe (accurately scaled zoom out from Earth)
+sourcePath: _posts/2016-04-21-the-observable-universe-accurately-scaled-zoom-out-from-ear.md
+published: true
 authors: []
 publisher:
   name: YouTube
   domain: www.youtube.com
   url: 'https://www.youtube.com/'
   favicon: 'https://www.youtube.com/favicon.ico'
-sourcePath: _posts/2016-04-21-the-observable-universe-accurately-scaled-zoom-out-from-ear.md
-published: true
 _type: VideoObject
 _context: 'http://schema.org'
 
